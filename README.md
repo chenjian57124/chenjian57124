@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**chenjian57124/chenjian57124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的宠物商店</title>
+    <style>
+        body {font-family: Arial, sans-serif;}
+        .product {border: 1px solid #000; margin: 10px; padding: 10px;}
+        .product img {max-width: 200px;}
+    </style>
+</head>
+<body>
+    <h1>欢迎来到我的宠物商店！</h1>
+    <div class="product">
+        <h2>小狗</h2>
+        <img src="puppy.jpg" alt="小狗">
+        <p>这是一只活泼可爱的小狗。</p>
+    </div>
+    <div class="product">
+        <h2>小猫</h2>
+        <img src="kitten.jpg" alt="小猫">
+        <p>这是一只温顺可爱的小猫。</p>
+    </div>
+    <!-- 更多的宠物信息可以在这里添加 -->
+</body>
+</html>
